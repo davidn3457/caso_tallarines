@@ -1,2 +1,2 @@
-# caso_tallarines
+# Tallarines case
 Tallarines case: Forecasting analisis
